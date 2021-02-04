@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className="App" style={{ fontSize: '56px'}}>
-      Anam is high!
+      Mano is high!
     </div>
   );
 }
